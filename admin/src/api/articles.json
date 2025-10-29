@@ -1,0 +1,151 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "The Evolution of Ethiopian Coffee Culture",
+        "author": "Elias Hagos",
+        "image": "https://picsum.photos/923/520",
+        "content": "Ethiopia is widely regarded as the birthplace of coffee, and the country's rich coffee culture has evolved significantly over the centuries...",
+        "categoryId": 1,
+        "comments": [
+          {
+            "id": 1,
+            "author": "John Doe",
+            "content": "Great article! I learned a lot about Ethiopian coffee."
+          },
+          {
+            "id": 2,
+            "author": "Jane Smith",
+            "content": "Ethiopian coffee is my favorite. Thanks for sharing!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Tech Innovations in Ethiopia: A Growing Ecosystem",
+        "author": "Sara Kebede",
+        "image": "https://picsum.photos/923/520",
+        "content": "The tech scene in Ethiopia has been growing rapidly, with many startups emerging in Addis Ababa and other cities. This article explores some of the key innovations...",
+        "categoryId": 2,
+        "comments": [
+          {
+            "id": 1,
+            "author": "Michael Brown",
+            "content": "It's amazing to see how much the tech industry has grown in Ethiopia!"
+          },
+          {
+            "id": 2,
+            "author": "Lucy Wang",
+            "content": "I'm excited to see where Ethiopian startups will go in the next few years."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Historical Landmarks in Ethiopia",
+        "author": "Abebe Tesfaye",
+        "image": "https://picsum.photos/923/520",
+        "content": "Ethiopia is home to numerous historical landmarks, each with its own unique story. From the ancient city of Aksum to the rock-hewn churches of Lalibela...",
+        "categoryId": 3,
+        "comments": [
+          {
+            "id": 1,
+            "author": "Anna Lopez",
+            "content": "I would love to visit these landmarks someday."
+          },
+          {
+            "id": 2,
+            "author": "Chris Green",
+            "content": "Ethiopia has such a rich history. Great read!"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Exploring Ethiopian Cuisine: A Culinary Journey",
+        "author": "Mariam Desta",
+        "image": "https://picsum.photos/923/520",
+        "content": "Ethiopian cuisine is known for its unique flavors and communal dining experience. This article delves into some of the most popular dishes and their cultural significance...",
+        "categoryId": 4,
+        "comments": [
+          {
+            "id": 1,
+            "author": "Peter Johnson",
+            "content": "Ethiopian food is so delicious! I can't wait to try making it at home."
+          },
+          {
+            "id": 2,
+            "author": "Emily Davis",
+            "content": "This article made me hungry. Thanks for sharing these recipes!"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "The Impact of Climate Change on Ethiopian Agriculture",
+        "author": "Samuel Fikre",
+        "image": "https://picsum.photos/923/520",
+        "content": "Climate change is affecting agriculture worldwide, and Ethiopia is no exception. This article examines the challenges and potential solutions...",
+        "categoryId": 5,
+        "comments": [
+          {
+            "id": 1,
+            "author": "Rachel Adams",
+            "content": "This is an important issue. Thanks for shedding light on it."
+          },
+          {
+            "id": 2,
+            "author": "James Wilson",
+            "content": "We need more sustainable practices to combat climate change."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "The Rise of Fashion in Addis Ababa",
+        "author": "Hana Mesfin",
+        "image": "https://picsum.photos/923/520",
+        "content": "Addis Ababa is becoming a fashion hub in Africa, with designers gaining international recognition. This article highlights some of the key figures and trends...",
+        "categoryId": 6,
+        "comments": [
+          {
+            "id": 1,
+            "author": "Lisa Park",
+            "content": "It's great to see the fashion industry growing in Ethiopia."
+          },
+          {
+            "id": 2,
+            "author": "Tom Harris",
+            "content": "I love the unique styles coming out of Addis Ababa!"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Culture"
+      },
+      {
+        "id": 2,
+        "name": "Technology"
+      },
+      {
+        "id": 3,
+        "name": "History"
+      },
+      {
+        "id": 4,
+        "name": "Food"
+      },
+      {
+        "id": 5,
+        "name": "Environment"
+      },
+      {
+        "id": 6,
+        "name": "Fashion"
+      }
+    ]
+  }
+  
